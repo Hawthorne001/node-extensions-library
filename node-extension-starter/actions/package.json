@@ -5,7 +5,7 @@
     },
     "dependencies": {
         "@tenderly/actions": "^0.2.4",
-        "ethers": "^5.7.2"
+        "ethers": "^6.0.0"
     },
     "devDependencies": {
         "@types/node": "^20.3.3",
